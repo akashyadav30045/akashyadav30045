@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack MERN + GEn Ai Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e474lb1nfahcfr5tihtvzf51hg6yb7u037bowgv69dx&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 
